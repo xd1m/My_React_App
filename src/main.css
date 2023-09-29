@@ -1,0 +1,7 @@
+#container {
+    display: "flex";
+    flexWrap: "wrap";
+    justifyContent: 'space-between';
+    gap: "1px";
+    marginTop: "3%"
+}

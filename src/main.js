@@ -1,9 +1,10 @@
 import data from './data.json'
 import CardComp from './card';
+import './main.css';
 function Main() {
     return (
         <>
-        <div style={{display : "flex" , flexWrap:"wrap" , justifyContent:'space-between', gap:"1px", marginTop:"3%"}}>
+        <div id='container'>
         {data.map(function(item){
             return(
                 <CardComp image={item.image_url} title={item.title} description={item.description}/>
