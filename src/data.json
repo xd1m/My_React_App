@@ -1,0 +1,37 @@
+[
+    {
+        "image_url": "https://www.cameralabs.com/wp-content/uploads/2019/08/canon-eos-90d-hero-1.jpg",
+        "title": "Camera DSLR 2023",
+        "description": "Canon EOS R6 Mark II - Full Frame Mirrorless Camera (Body Only) - Still & Video - 24.2MP, CMOS, Continuous Shooting.",
+        "category": "Electronics",
+        "price": "2.499﹩"
+    },
+    {
+        "image_url": "https://m.media-amazon.com/images/I/81GP6d7ek+L._AC_SL1500_.jpg",
+        "title": "Car Seat Side Pocket",
+        "description": "[High Quality Material] The car storage bag is made of high-quality PU leather, with soft and comfortable surface, waterproof and non-scratch. The leather surface is easy to clean and durable.[Small Size&Large Capacity] This car organizer is 6.6 x 4.7 inches in size, small in size, large in capacity, and does not occupy the interior space. It can store daily small items. Your mobile phone, glasses, keys, change, bills and women's cosmetics are easy to put in.",
+        "category": "accessories",
+        "price": "﹩7.99"
+    },
+    {
+        "image_url": "https://m.media-amazon.com/images/I/7104SjbR1WL._AC_UX425_.jpg",
+        "title": "J.VER Men's Cotton Short Shirt",
+        "description": "The casual short sleeve shirt is made of high-quality cotton and linen fabric with anti-shrink treatment, soft and comfortable,easy to iron, lightweight and cool,good breathability, take away the stuffiness, and give you a better wearing experience",
+        "category": "clothes",
+        "price": "17.59﹩"
+    },
+    {
+        "image_url": "https://m.media-amazon.com/images/I/61eTZT58YGL._AC_SL1500_.jpg",
+        "title": "Padded Office Desk Chair",
+        "description": "Mid-back office desk chair in White; ideal for home office, work station, or conference room Height-adjustable seat with adjustable seat angle and tilt control, plus 360-degree swivel for easy multi-tasking 275 pound weight capacity; 5 point base for stability; certified by BIFMA, a nonprofit organization that creates voluntary standards to support",
+        "category": "office",
+        "price": "144$"
+    },
+    {
+        "image_url": "https://m.media-amazon.com/images/I/71MlsIZig1L._AC_SL1300_.jpg",
+        "title": "Cocktail Glasses 10",
+        "description": "Vintage-Inspired Design Vintage cocktail glasses have a unique embossed appearance design that provides you with additional grip. The beaded detail design brings eternal elegance, adding a handcrafted aesthetic to each piece.",
+        "category": "drinkware",
+        "price": "19.99$"
+    }
+]
